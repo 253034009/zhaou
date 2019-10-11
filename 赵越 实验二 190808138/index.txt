@@ -1,0 +1,62 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>190808221陈徐昕的个人网站——首页</title>
+</head>
+<body>
+
+<strong>
+<big>
+"欢迎光临我的个人网站！——首页"
+</big>
+</strong>
+
+<h1>
+<a href="index.html">首页</a>
+<a href="about.html">关于我</a>
+<a href="diary.html">日志</a>
+<a href="works.html">作品</a>
+<a href="photo.html">相册</a>
+<a href="contact.html">联系</a>
+
+</h1>
+
+
+
+<h2>
+<big>
+<strong>
+基本信息</a
+</strong>
+<big>
+</h2>
+<h3>
+<big>
+<em>
+院系：媒体工程学院<br>软件工程系2班</br>
+</em>
+</big>
+</h3>
+<h4>
+<big>
+学号：190808221<br>姓名：陈徐昕</br>
+</big>
+</h4>
+<h5>
+<big>
+籍贯：上海
+</big>
+</h5>
+<h6>
+<big>
+<strong>
+兴趣爱好：纸片人、运动
+</strong>
+</big>
+</h6>
+<img src="images/1"alt="头像"width="600"height="600"/>
+
+
+</body>
+</html>
